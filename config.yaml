@@ -1,9 +1,13 @@
 baseURL: ''
 languageCode: nl
 title: Juf Olga
-theme: yourfolio
+# theme: yourfolio
 disableKinds: [RSS, taxonomy, taxonomyTerm]
 # googleAnalytics: UA-XXXXX-Y
+
+module:
+  imports:
+    - path: github.com/serg/yourfolio
 
 # Menu items
 menu:
