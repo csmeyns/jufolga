@@ -20,7 +20,7 @@ menu:
 
 menu:
   main:
-    - name: Home
+    - name: Thuis
       URL: /
       weight: 1
     - name: Over
@@ -33,9 +33,15 @@ menu:
       URL: contact/
       weight: 4
   desktop:
+    - name: Over
+      URL: over/
+      weight: 1
+    - name: Video's
+      URL: videos/
+      weight: 2
     - name: Contact
       URL: contact/
-      weight: 1
+      weight: 3
 
 paginate: '6'
 summaryLength: '10'
