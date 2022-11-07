@@ -1,26 +1,105 @@
 baseURL: ''
 languageCode: nl
 title: Juf Olga
-theme: yourfolio
 disableKinds: [RSS, taxonomy, taxonomyTerm]
 # googleAnalytics: UA-XXXXX-Y
 
 module:
   imports:
-    - path: github.com/serg/yourfolio
+    - path: github.com/themefisher/twenty-twenty-hugo
 
 # Menu items
 menu:
   main:
   - name: Over
     weight: 1
-    url: /about
+    url: /over
   - name: Contact
     weight: 2
     url: /contact
 
-# Custom params
+menu:
+  main:
+    - name: Home
+      URL: /
+      weight: 1
+    - name: Over
+      URL: over/
+      weight: 2
+    - name: Video's
+      URL: videos/
+      weight: 3
+    - name: Contact
+      URL: contact/
+      weight: 4
+  desktop:
+    - name: Contact
+      URL: contact/
+      weight: 1
+
+paginate: '6'
+summaryLength: '10'
+disqusShortname: ''
+disableLanguages: []
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+taxonomies:
+  category: categories
+  tag: tags
+  author: author
+
 params:
-  env: development
-  logoImage: img/logo.png
-  logoImageAlt: Yourfolio Theme brand logo
+  description: This is meta description
+  author: Juf Olga
+  favicon:
+    favicon: images/favicon.png
+  cookies:
+    enable: false
+    expire_days: 2
+  banner:
+    heading: The New UMoMA Opens its Doors
+    image: images/2020-landscape-1-2.png
+  blog:
+    heading: >-
+      The premier destination for modern art in Northern Sweden. Open from 10 AM
+      to 6 PM every day during the summer months.
+  call_to_action:
+    enable: true
+    title: Contact us for more information.
+    content: >-
+      Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo
+      ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis
+      dis
+    button_label: Contact Us
+    button_url: contact/
+  gallery:
+    enable: true
+    gallery_item:
+      - image: images/2020-square-2.png
+      - image: images/2020-square-1.png
+  footer:
+    title: Over deze site
+    content: >-
+      This may be a good place to introduce yourself and your site or include
+      some credits.
+    address: '123 Main Street <br> New York, NY 10001'
+    hours: 'Monday–Friday: 9:00AM–5:00PM <br> Saturday & Sunday: 11:00AM–3:00PM'
+    copyright: >-
+      Gebouwd met ☕️ en 💜 | [Hugo](https://gohugo.io/) [Twenty Twenty thema](https://themefisher.com/hugo-themes/)
+  social:
+    # yelp: '#'
+    # facebook: '#'
+    # twitter: '#'
+    # instagram: '#'
+    email: 'jufolga@proton.me'
+    # linkedin: '#'

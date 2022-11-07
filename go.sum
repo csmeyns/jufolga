@@ -1,2 +1,4 @@
 github.com/serg/yourfolio v0.0.0-20211028094824-57f039fc707d h1:5py1WSGDTlFa+dACvRmhu5840S5quf1GCMqZ3GusEWQ=
 github.com/serg/yourfolio v0.0.0-20211028094824-57f039fc707d/go.mod h1:0FnjHDH1xNvakzflQ7bVT+01t9AYS9sAI/6vWT//SjQ=
+github.com/themefisher/twenty-twenty-hugo v0.0.0-20221022034201-47905bec8fe2 h1:SfG2OEBI5IWSjxtgxkYKeUvCoYgzxrS8AmFuG6QP6j8=
+github.com/themefisher/twenty-twenty-hugo v0.0.0-20221022034201-47905bec8fe2/go.mod h1:7a678ZDuA7y0P3Rc/QtvbdWjRsNFiJ72RWd9pOQT8NI=
