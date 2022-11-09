@@ -6,4 +6,4 @@ description: "This is meta description"
 draft: false
 ---
 
-You might be an artist who would like to introduce yourself and your work here or maybe you&rsquo;re a business with a mission to describe.
+Juf Olga heeft meer dan veertig jaar ervaring in ontwikkelingsgericht onderwijs voor kleuters. Op deze website deelt zij haar kennis en inzichten. 

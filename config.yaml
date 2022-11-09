@@ -1,4 +1,5 @@
 baseURL: ''
+defaultContentLanguage: nl
 languageCode: nl
 title: Juf Olga
 disableKinds: [RSS, taxonomy, taxonomyTerm]
@@ -9,15 +10,6 @@ module:
     - path: github.com/themefisher/twenty-twenty-hugo
 
 # Menu items
-menu:
-  main:
-  - name: Over
-    weight: 1
-    url: /over
-  - name: Contact
-    weight: 2
-    url: /contact
-
 menu:
   main:
     - name: Thuis
@@ -73,20 +65,19 @@ params:
     enable: false
     expire_days: 2
   banner:
-    heading: The New UMoMA Opens its Doors
+    heading: Met plezier leren en lezen voor kleuters
     image: images/2020-landscape-1-2.png
   blog:
     heading: >-
-      The premier destination for modern art in Northern Sweden. Open from 10 AM
-      to 6 PM every day during the summer months.
+      Video's die leren en lezen leuk maken voor uw kleuter. Gericht op de 
+      ontwikkeling van kinderen in groep 1 en 2. Dag en nacht beschikbaar.
   call_to_action:
     enable: true
-    title: Contact us for more information.
+    title: Neem contact op voor meer informatie.
     content: >-
-      Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo
-      ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis
-      dis
-    button_label: Contact Us
+      Heeft u vragen of suggesties? We horen graag van u! Laat het ons weten
+      en we kijken wat we kunnen doen. 
+    button_label: Neem contact op
     button_url: contact/
   gallery:
     enable: true
@@ -94,12 +85,12 @@ params:
       - image: images/2020-square-2.png
       - image: images/2020-square-1.png
   footer:
-    title: Over deze site
+    title: Over deze website
     content: >-
-      This may be a good place to introduce yourself and your site or include
-      some credits.
-    address: '123 Main Street <br> New York, NY 10001'
-    hours: 'Monday–Friday: 9:00AM–5:00PM <br> Saturday & Sunday: 11:00AM–3:00PM'
+      Juf Olga heeft meer dan veertig jaar ervaring in ontwikkelingsgericht
+      onderwijs voor kleuters. Op deze website deelt zij haar kennis en inzichten. 
+    # address: '123 Main Street <br> New York, NY 10001'
+    # hours: 'Monday–Friday: 9:00AM–5:00PM <br> Saturday & Sunday: 11:00AM–3:00PM'
     copyright: >-
       Gebouwd met ☕️ en 💜 | [Hugo](https://gohugo.io/) [Twenty Twenty thema](https://themefisher.com/hugo-themes/)
   social:
