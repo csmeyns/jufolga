@@ -69,8 +69,7 @@ params:
     image: images/2020-landscape-1-2.png
   blog:
     heading: >-
-      Video's die leren en lezen leuk maken voor uw kleuter. Gericht op de 
-      ontwikkeling van kinderen in groep 1 en 2. Dag en nacht beschikbaar.
+      Video's die leren en lezen leuk maken voor uw kleuter.
   call_to_action:
     enable: true
     title: Neem contact op voor meer informatie.
