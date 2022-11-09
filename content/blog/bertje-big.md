@@ -5,8 +5,8 @@ image : "images/bertje-big.jpg"
 # author
 author : ["Juf Olga"]
 # categories
-categories: ["lifestyle"]
-tags: ["lifestyle" , "fashion"]
+categories: ["voorlezen"]
+tags: ["voorlezen", "dieren"]
 # meta description
 description: "This is meta description"
 # save as draft

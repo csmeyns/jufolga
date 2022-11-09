@@ -5,8 +5,8 @@ image : "images/letters-s.jpg"
 # author
 author : ["Juf Olga"]
 # categories
-categories: ["lifestyle"]
-tags: ["lifestyle" , "fashion"]
+categories: ["leren"]
+tags: ["letters", "leren", "gebaren", "klanken"]
 # meta description
 description: "This is meta description"
 # save as draft

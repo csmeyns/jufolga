@@ -5,8 +5,8 @@ image : "images/letters-h.jpg"
 # author
 author : ["Juf Olga"]
 # categories
-categories: ["tour"]
-tags: ["tour","visit"]
+categories: ["leren"]
+tags: ["leren", "gebaren", "klanken", "letters"]
 # meta description
 description: "This is meta description"
 # save as draft

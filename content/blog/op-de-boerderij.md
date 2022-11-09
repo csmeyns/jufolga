@@ -5,8 +5,8 @@ image : "images/boerderij.jpg"
 # author
 author : ["Juf Olga"]
 # categories
-categories: ["operations"]
-tage: ["tags"]
+categories: ["voorlezen"]
+tage: ["boerderij", "dieren", "voorlezen"]
 # meta description
 description: "This is meta description"
 # save as draft

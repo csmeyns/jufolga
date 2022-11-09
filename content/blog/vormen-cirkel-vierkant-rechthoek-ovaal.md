@@ -5,8 +5,8 @@ image : "images/vormen.jpg"
 # author
 author : ["Juf Olga"]
 # categories
-categories: ["lifestyle"]
-tags: ["lifestyle" , "fashion"]
+categories: ["leren"]
+tags: ["vormen" , "leren"]
 # meta description
 description: "This is meta description"
 # save as draft

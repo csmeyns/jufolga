@@ -5,8 +5,8 @@ image : "images/zingen-brand-in-mokum.jpg"
 # author
 author : ["Juf Olga"]
 # categories
-categories: ["operations"]
-tage: ["tags"]
+categories: ["zingen"]
+tage: ["zingen", "liedjes"]
 # meta description
 description: "This is meta description"
 # save as draft

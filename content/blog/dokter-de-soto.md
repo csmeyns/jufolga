@@ -5,8 +5,8 @@ image : "images/dokter-de-soto.jpg"
 # author
 author : ["Juf Olga"]
 # categories
-categories: ["operations"]
-tage: ["tags"]
+categories: ["voorlezen"]
+tage: ["voorlezen", "dieren"]
 # meta description
 description: "This is meta description"
 # save as draft

@@ -5,8 +5,8 @@ image : "images/knutselt-kip.jpg"
 # author
 author : ["Juf Olga"]
 # categories
-categories: ["operations"]
-tage: ["tags"]
+categories: ["knutselen"]
+tage: ["knutselen", "dieren"]
 # meta description
 description: "This is meta description"
 # save as draft

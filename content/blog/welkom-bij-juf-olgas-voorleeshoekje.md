@@ -5,8 +5,8 @@ image : "images/welkom.jpg"
 # author
 author : ["Juf Olga"]
 # categories
-categories: ["operations"]
-tage: ["tags"]
+categories: ["welkom"]
+tage: ["welkom", "voorlezen"]
 # meta description
 description: "This is meta description"
 # save as draft

@@ -5,8 +5,8 @@ image : "images/gelaarsde-kat.jpg"
 # author
 author : ["Juf Olga"]
 # categories
-categories: ["tour"]
-tags: ["tour","visit"]
+categories: ["voorlezen"]
+tags: ["voorlezen", "sprookjes", "dieren"]
 # meta description
 description: "This is meta description"
 # save as draft

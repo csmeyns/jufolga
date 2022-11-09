@@ -5,8 +5,8 @@ image : "images/rattenvanger.jpg"
 # author
 author : ["Juf Olga"]
 # categories
-categories: ["lifestyle"]
-tags: ["lifestyle" , "fashion"]
+categories: ["voorlezen"]
+tags: ["voorlezen", "sprookjes", "dieren"]
 # meta description
 description: "This is meta description"
 # save as draft

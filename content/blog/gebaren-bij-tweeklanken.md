@@ -5,8 +5,8 @@ image : "images/gebaren-bij-tweeklanken.jpg"
 # author
 author : ["Juf Olga"]
 # categories
-categories: ["letters", "klanken"]
-tags: ["letters", "klanken"]
+categories: ["leren"]
+tags: ["leren", "gebaren", "letters", "klanken"]
 # meta description
 description: "This is meta description"
 # save as draft

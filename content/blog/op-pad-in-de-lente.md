@@ -5,8 +5,8 @@ image : "images/op-pad.jpg"
 # author
 author : ["Juf Olga"]
 # categories
-categories: ["operations"]
-tage: ["tags"]
+categories: ["leren"]
+tage: ["leren", "lente", "seizoenen"]
 # meta description
 description: "This is meta description"
 # save as draft

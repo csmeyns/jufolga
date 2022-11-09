@@ -5,8 +5,8 @@ image : "images/veel-geluk.jpg"
 # author
 author : ["Juf Olga"]
 # categories
-categories: ["lifestyle"]
-tags: ["lifestyle" , "fashion"]
+categories: ["voorlezen"]
+tags: ["voorlezen", "avontuur"]
 # meta description
 description: "This is meta description"
 # save as draft
